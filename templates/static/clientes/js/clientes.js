@@ -6,5 +6,4 @@ function add_carro(){
 
     container.innerHTML += html
 
-
 }
