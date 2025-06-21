@@ -42,7 +42,7 @@ function dados_cliente(){
         return result.json()
     }).then(function(data){
 
-        console.log('teste')
+        console.log(data)
     })
     
 
